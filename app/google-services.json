@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941313232768",
+    "firebase_url": "https://text-recognition-app-51649.firebaseio.com",
+    "project_id": "text-recognition-app-51649",
+    "storage_bucket": "text-recognition-app-51649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941313232768:android:9c9e608a0b5eb383",
+        "android_client_info": {
+          "package_name": "com.developer.jatin.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941313232768-a3htat0hipfbba7ar4u3r92tsrrtltbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.jatin.textrecognition",
+            "certificate_hash": "758251c82a95e8da3c197bb9940c927484ec6cfa"
+          }
+        },
+        {
+          "client_id": "941313232768-b0rbmcgh0chramjg6eul9439pas7ghqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0vRu5REm-WNY9CbMycXL_aapkmSuWQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941313232768-b0rbmcgh0chramjg6eul9439pas7ghqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

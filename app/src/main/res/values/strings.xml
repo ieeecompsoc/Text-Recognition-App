@@ -3,4 +3,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_picture_added_yet">No picture added yet</string>
+    <string name="snap">Snap</string>
+    <string name="detect">Detect</string>
 </resources>
